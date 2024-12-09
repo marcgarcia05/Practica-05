@@ -1,0 +1,5 @@
+Clave sitio web
+6LeCepAqAAAAANEgWrjJvKiFpWjAL9KZXmYkyVFI
+
+Clave secreta
+6LeCepAqAAAAAIDPbIiuswfS3LFWWk4oWfsXOUCu

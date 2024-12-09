@@ -1,0 +1,15 @@
+# Activar el RewriteEngine para reescritura de URLs
+RewriteEngine On
+
+# Configurar el manejo de errores 404
+ErrorDocument 404 /error404.php
+
+# Opcional: Redirigir todas las solicitudes no válidas a una página específica
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /error404.php [L]
+
+# Opcional: Asegurarte de que index.php maneja las solicitudes de la raíz
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [L]
