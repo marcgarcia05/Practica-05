@@ -1,4 +1,4 @@
-# Documentació Pràctica 04
+# Documentació Pràctica 05
 
 El projecte es pot testejar en aquest [link](https://xampp.garc.pro/www/practiques/UF1/Practica%204/Controlador)
 
