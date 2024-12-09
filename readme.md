@@ -1,6 +1,6 @@
 # Documentació Pràctica 05
 
-El projecte es pot testejar en aquest [link](https://xampp.garc.pro/www/practiques/UF1/Practica%205/Practica-05/Controlador)
+El projecte es pot testejar en aquest [link](https://xampp.garc.pro/www/practiques/UF1/Practica%205/Practica-5/Controlador)
 
 Login per fer proves:
 
