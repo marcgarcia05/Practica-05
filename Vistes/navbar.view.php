@@ -44,7 +44,7 @@ if (isset($_SESSION['username'])) {
     //Si no tenim la sessió iniciada mostrarem el navbar amb els botons de Login i Registre
 } else {
     echo "<nav class='navbar navbar-dark bg-primary'>
-    <a class='navbar-brand mx-2' href='#'>Pràctica 04</a>
+    <a class='navbar-brand mx-2' href='#'>Pràctica 05</a>
     <form action='../Controlador/index.php' method='post' class='form-inline justify-content-arround'>
             <div class='row'>
             <div class='col'>

@@ -1,11 +1,11 @@
 # Documentació Pràctica 05
 
-El projecte es pot testejar en aquest [link](https://xampp.garc.pro/www/practiques/UF1/Practica%204/Controlador)
+El projecte es pot testejar en aquest [link](https://xampp.garc.pro/www/practiques/UF1/Practica%205/Practica-05/Controlador)
 
 Login per fer proves:
 
-- `Usuari`: profe@sapalomera.cat
-- `Password`: Profe123@
+- `Usuari`: marc@sapalomera.cat
+- `Password`: Sox2020@
 
 ## Estructura del Projecte
 
